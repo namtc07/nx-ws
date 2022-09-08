@@ -5,6 +5,7 @@
   "scripts": {
     "start": "nx serve",
     "build": "nx build",
+    "build:todos":"nx build todos",
     "test": "nx test"
   },
   "private": true,
