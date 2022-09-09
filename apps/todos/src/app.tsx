@@ -20,7 +20,8 @@ export function App() {
     <StyledApp>
       <div>
         <h1>Todo App</h1>
-        <Filters />
+        <hr />
+        {/* <Filters /> */}
       </div>
       <ListTodo />
       <FormInput />
